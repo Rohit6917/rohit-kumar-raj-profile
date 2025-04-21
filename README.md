@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F7961E&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Rohit+Kumar+Raj;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Welcome+to+my+GitHub+Profile!+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F7961E&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Rohit+Kumar+Raj;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Welcome+to+my+GitHub+Profile!+Transforming Data into Insights💻)
 
 ![analytics](https://github.com/Rohit6917/Rohit6917/blob/main/assets/wave.svg)
 
